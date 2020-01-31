@@ -1,0 +1,11 @@
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\j_fen\ITDEV185\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
