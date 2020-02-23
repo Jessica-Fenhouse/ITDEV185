@@ -1,0 +1,11 @@
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\bin\Debug\netcoreapp2.1\GenericAssignment3.deps.json
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\bin\Debug\netcoreapp2.1\GenericAssignment3.runtimeconfig.json
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\bin\Debug\netcoreapp2.1\GenericAssignment3.runtimeconfig.dev.json
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\bin\Debug\netcoreapp2.1\GenericAssignment3.dll
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\bin\Debug\netcoreapp2.1\GenericAssignment3.pdb
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.csprojAssemblyReference.cache
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.AssemblyInfoInputs.cache
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.AssemblyInfo.cs
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.dll
+C:\Users\j_fen\ITDEV185\GenericAssignment3\GenericAssignment3\obj\Debug\netcoreapp2.1\GenericAssignment3.pdb
