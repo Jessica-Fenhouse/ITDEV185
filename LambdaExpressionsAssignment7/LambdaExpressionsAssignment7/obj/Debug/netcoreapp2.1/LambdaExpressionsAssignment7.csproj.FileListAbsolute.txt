@@ -1,0 +1,11 @@
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\bin\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.deps.json
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\bin\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.runtimeconfig.json
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\bin\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.runtimeconfig.dev.json
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\bin\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.dll
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\bin\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.pdb
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.csprojAssemblyReference.cache
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.AssemblyInfoInputs.cache
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.AssemblyInfo.cs
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.dll
+C:\Users\j_fen\ITDEV185\LambdaExpressionsAssignment7\LambdaExpressionsAssignment7\obj\Debug\netcoreapp2.1\LambdaExpressionsAssignment7.pdb
